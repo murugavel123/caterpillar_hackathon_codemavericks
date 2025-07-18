@@ -75,6 +75,13 @@ export default function OperatorDashboard() {
 
           </button>
         ))}
+
+        <button
+          className="px-4 py-2 rounded bg-purple-600 text-white hover:bg-purple-700"
+          onClick={() => window.open("https://gemini.google.com/share/47faf31e117d", "_blank")}
+        >
+          ChatBot
+        </button>
       </div>
 
 

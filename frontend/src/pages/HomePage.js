@@ -11,7 +11,7 @@ function HomePage() {
         transition={{ duration: 0.6 }}
         className="bg-white p-10 rounded-2xl shadow-2xl w-full max-w-md text-center"
       >
-        <h1 className="text-4xl font-extrabold text-blue-700 mb-6">Welcome 👋</h1>
+        <h1 className="text-4xl font-extrabold text-blue-700 mb-6">Welcome!</h1>
         <p className="text-gray-600 mb-8 text-lg">
           Access your dashboard by logging in or signing up.
         </p>
